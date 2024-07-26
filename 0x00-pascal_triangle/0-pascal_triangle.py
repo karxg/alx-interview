@@ -3,7 +3,7 @@
 Pascal's Triangle Generator
 """
 
-def generate_pascals_triangle(rows):
+def pascal_triangle(rows):
     """
     Generates Pascal's Triangle up to a given number of rows.
 
@@ -28,4 +28,6 @@ def generate_pascals_triangle(rows):
         triangle.append(row)
 
     return triangle
+
+
 
