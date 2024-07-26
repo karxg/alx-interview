@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Pascal's Triangle Generator
+Pascal's Triangle Script that draw a pascal triangle with a number of rows passed to the function
 """
 
 def pascal_triangle(rows):
