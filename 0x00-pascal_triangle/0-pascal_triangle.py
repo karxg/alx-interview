@@ -28,6 +28,3 @@ def pascal_triangle(rows):
         triangle.append(row)
 
     return triangle
-
-
-
